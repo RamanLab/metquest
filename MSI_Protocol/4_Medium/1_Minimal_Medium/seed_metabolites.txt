@@ -1,0 +1,7 @@
+EX_urea_e
+EX_xyl__D_e
+EX_pi_e
+EX_glc__D_e
+EX_cys__L_e
+EX_nh4_e
+EX_so4_e
